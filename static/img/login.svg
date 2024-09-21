@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cuerpo de Pikachu -->
+  <circle cx="100" cy="100" r="80" fill="#FDD835" stroke="#000" stroke-width="3"/>
+  
+  <!-- Orejas -->
+  <polygon points="60,20 80,60 40,60" fill="#FDD835" stroke="#000" stroke-width="3"/>
+  <polygon points="140,20 160,60 120,60" fill="#FDD835" stroke="#000" stroke-width="3"/>
+  
+  <!-- Lentes -->
+  <circle cx="70" cy="90" r="20" fill="#FFF" stroke="#000" stroke-width="3"/>
+  <circle cx="130" cy="90" r="20" fill="#FFF" stroke="#000" stroke-width="3"/>
+  <rect x="90" y="85" width="20" height="10" fill="#000"/>
+  
+  <!-- Ojos -->
+  <circle cx="70" cy="90" r="10" fill="#000"/>
+  <circle cx="130" cy="90" r="10" fill="#000"/>
+  
+  <!-- Mejillas -->
+  <circle cx="60" cy="120" r="10" fill="#FF5252"/>
+  <circle cx="140" cy="120" r="10" fill="#FF5252"/>
+  
+  <!-- Boca -->
+  <path d="M80,140 Q100,160 120,140" stroke="#000" stroke-width="3" fill="none"/>
+</svg>
